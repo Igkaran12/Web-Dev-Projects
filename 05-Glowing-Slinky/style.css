@@ -16,14 +16,14 @@ body {
   height: 100vh;
 }
 
-.untoldcoding {
+.utpalcoding {
   animation: camera 2s ease-in-out infinite;
   margin: auto;
   position: relative;
   width: 8em;
   height: 14em;
 }
-.untoldcoding__ring {
+.utpalcoding__ring {
   border-radius: 50%;
   box-shadow: 0 0 0 0.25em #ffffff inset, 0 0 4.5em rgba(37, 95, 244, 0.3) inset,
     0 0 4.25em rgba(5, 25, 207, 0.3);
@@ -34,55 +34,55 @@ body {
   transform: translateY(0) rotateZ(0) rotateX(0) translateX(-0.75em);
   transform-origin: 100% 50%;
 }
-.untoldcoding__ring:nth-child(1) {
+.utpalcoding__ring:nth-child(1) {
   animation: move1 2s linear infinite;
   bottom: 0em;
 }
-.untoldcoding__ring:nth-child(2) {
+.utpalcoding__ring:nth-child(2) {
   animation: move2 2s linear infinite;
   bottom: 0.25em;
 }
-.untoldcoding__ring:nth-child(3) {
+.utpalcoding__ring:nth-child(3) {
   animation: move3 2s linear infinite;
   bottom: 0.5em;
 }
-.untoldcoding__ring:nth-child(4) {
+.utpalcoding__ring:nth-child(4) {
   animation: move4 2s linear infinite;
   bottom: 0.75em;
 }
-.untoldcoding__ring:nth-child(5) {
+.utpalcoding__ring:nth-child(5) {
   animation: move5 2s linear infinite;
   bottom: 1em;
 }
-.untoldcoding__ring:nth-child(6) {
+.utpalcoding__ring:nth-child(6) {
   animation: move6 2s linear infinite;
   bottom: 1.25em;
 }
-.untoldcoding__ring:nth-child(7) {
+.utpalcoding__ring:nth-child(7) {
   animation: move7 2s linear infinite;
   bottom: 1.5em;
 }
-.untoldcoding__ring:nth-child(8) {
+.utpalcoding__ring:nth-child(8) {
   animation: move8 2s linear infinite;
   bottom: 1.75em;
 }
-.untoldcoding__ring:nth-child(9) {
+.utpalcoding__ring:nth-child(9) {
   animation: move9 2s linear infinite;
   bottom: 2em;
 }
-.untoldcoding__ring:nth-child(10) {
+.utpalcoding__ring:nth-child(10) {
   animation: move10 2s linear infinite;
   bottom: 2.25em;
 }
-.untoldcoding__ring:nth-child(11) {
+.utpalcoding__ring:nth-child(11) {
   animation: move11 2s linear infinite;
   bottom: 2.5em;
 }
-.untoldcoding__ring:nth-child(12) {
+.utpalcoding__ring:nth-child(12) {
   animation: move12 2s linear infinite;
   bottom: 2.75em;
 }
-.untoldcoding__ring:nth-child(13) {
+.utpalcoding__ring:nth-child(13) {
   animation: move13 2s linear infinite;
   bottom: 3em;
 }
