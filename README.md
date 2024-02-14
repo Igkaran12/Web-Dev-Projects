@@ -1,11 +1,15 @@
-<h1 align="center">Web-Dev-projects</h1> 
+<h1 align="center">WEB DEVLOPER PROJECTS</h1>
+
+  <div align="center"><a href="https://github.com/U7P4L-IN/Web-Dev-Projects/stargazers/"><img src="https://custom-icon-badges.demolab.com/github/stars/U7P4L-IN/Web-Dev-Projects?label=Stars&logo=star&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&style=for-the-badge" alt="Stars"></a><a href="https://github.com/U7P4L-IN/Web-Dev-Projects/network/members/"><img src="https://custom-icon-badges.demolab.com/github/forks/U7P4L-IN/Web-Dev-Projects?label=Forks&logo=fork&labelColor=302d41&color=b5e8e0&logoColor=d9e0ee&style=for-the-badge" alt="Forks"></a><a href="https://github.com/U7P4L-IN/Web-Dev-Projects/issues"><img src="https://custom-icon-badges.demolab.com/github/issues/U7P4L-IN/Web-Dev-Projects?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/></div>
+  <div align="center"></a><a href="https://github.com/U7P4L-IN/Web-Dev-Projects/pull"><img src="https://custom-icon-badges.demolab.com/github/issues-pr/U7P4L-IN/Web-Dev-Projects?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/></a><a href="https://github.com/U7P4L-IN/Web-Dev-Projects/archive/refs/heads/master.zip"><img src="https://custom-icon-badges.demolab.com/github/languages/code-size/U7P4L-IN/Web-Dev-Projects?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download .zip"></a></div></br>
+
 
 > The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!
 
 </div>
 <div align="center">
   
-# ADD ANY WEB DEVELOPMENT MINI PROJECT !
+### ADD ANY WEB DEVELOPMENT MINI PROJECT !
 
 </div>
 <br>
@@ -83,3 +87,9 @@ git push -u origin <your_branch_name>
 # Give A Star ⭐
 
 > You can also give this repository a star to show more people and they can use this repository
+
+<p align="center">Made with HTML,CSS AND JAVASCRIPT OR SOME PYTHON FILE</p>
+<p align="center">Copyright © 2024-2030 </p>
+<div align="center">
+  <a href="LICENSE"><img src="https://custom-icon-badges.demolab.com/github/license/U7P4L-IN/Web-Dev-Projects?label=License&labelColor=302d41&color=91d7e3&logo=law&logoColor=d9e0ee&style=for-the-badge" alt="License"></a>
+</div>
