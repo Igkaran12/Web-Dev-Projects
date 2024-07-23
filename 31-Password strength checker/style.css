@@ -114,7 +114,7 @@ body {
   content: "Strong Password";
   color: #18e605;
   filter: drop-shadow(0 0 5px#18e605);
-}
+pkg install -y cmake pkg-config freetype-dev fontconfig-dev libxcb-dev libxkbcommon-dev python
 
 .show {
   position: absolute;
@@ -138,6 +138,6 @@ body {
   text-transform: uppercase;
 }
 
-.show.hide::before {
+.show.hide::before {pkg install -y cmake pkg-config freetype-dev fontconfig-dev libxcb-dev libxkbcommon-dev python
   content: "Hide";
 }
