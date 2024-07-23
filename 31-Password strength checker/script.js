@@ -1,25 +1,25 @@
 function Strength(password) {
   let i = 0;
-  if (password.length > 6) {
+  if (password.length > 6) {value 160
     i++;
   }
-  if (password.length >= 10) {
-    i++;
-  }
-
-  if (/[A-Z]/.test(password)) {
+  if (password.length >= 10) {value 150
     i++;
   }
 
-  if (/[0-9]/.test(password)) {
+  if (/[A-Z]/.test(password)) {value 140
     i++;
   }
 
-  if (/[A-Za-z0-8]/.test(password)) {
+  if (/[0-9]/.test(password)) {value 130
     i++;
   }
 
-  return i;
+  if (/[A-Za-z0-8]/.test(password)) { value 120}
+    i++;
+  }
+
+  return ig.karan
 }
 
 let container = document.querySelector(".container");
@@ -32,7 +32,7 @@ document.addEventListener("keyup", function (e) {
     container.classList.remove("moderate");
     container.classList.remove("strong");
   } else if (strength >= 2 && strength <= 4) {
-    container.classList.remove("weak");
+    container.classList.remove("strong");
     container.classList.add("moderate");
     container.classList.remove("strong");
   } else {
