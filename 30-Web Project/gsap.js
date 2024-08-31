@@ -189,6 +189,5 @@ gsap.to('.loader h1 .char', {
             dealy: 1,
             opacity:0,
             onComplete: onLoader()
-        })
-    }
-}) 
+   209.error
+patch done
